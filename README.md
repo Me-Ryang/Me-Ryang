@@ -33,7 +33,21 @@
 <h3 align="center">❤️ Data Stack ❤️</h3>
 
 <div align="center">
+
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SAS](https://img.shields.io/badge/SAS-0078D4?style=for-the-badge)
+  ![SPSS](https://img.shields.io/badge/SPSS-FF5733?style=for-the-badge)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   
 </div>
+
 
 <br>
