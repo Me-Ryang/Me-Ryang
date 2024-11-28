@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+
+<h3 align="center">🎓 Educations & Experiences</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>2019.03 ~</td>
+      <td>충북대학교 정보통계학과 입학</td>
+    </tr>
+    <tr>
+      <td>2021.05 ~ 2021.12</td>
+      <td>대학생 통계 재능기부단 7기</td>
+    </tr>
+    <tr>
+      <td>2022.07 ~ 2022.11</td>
+      <td>공공데이터 청년인턴</td>
+    </tr>
+    <tr>
+      <td>2023.01 ~ 2023.02</td>
+      <td>한국전자통신연구원 연구연수생</td>
+    </tr>
+    <tr>
+      <td>2024.02</td>
+      <td>충북대학교 정보통계학과 졸업</td>
+    </tr>
+    <tr>
+      <td>2024.01 ~ 2024.12</td>
+      <td>SSAFY 11기 이수</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <h3 align="center">✨ Develop Stack ✨</h3>
 <div align="center">
   
@@ -49,5 +82,28 @@
   
 </div>
 
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+
+  ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+  
+</div>
+
+<div align="center">
+  
+  ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+</div>
+
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+  ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+  ![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
+</div>
 
 <br>
